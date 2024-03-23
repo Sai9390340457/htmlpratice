@@ -1,0 +1,38 @@
+body{ 
+    background-color: darkgray; 
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+h1{ 
+    color:  #006;
+}
+table{ 
+    margin: auto; 
+    margin-top: 20px; 
+    border-collapse: collapse; 
+    width: 70%;
+} 
+th,td{ 
+    padding: 5%;
+} 
+marquee{ 
+    color: red;
+} 
+from{ 
+   float: right; 
+   background-color: white; 
+   padding: 20px; 
+   border-radius: 10px;
+} 
+lable{ 
+    display: block; 
+    text-align: left; 
+} 
+input{ 
+    width: 100%; 
+    padding: 8px; 
+    border-radius: 5px;
+} 
+input[type="submit"]{ 
+    background-color: #006;
+}

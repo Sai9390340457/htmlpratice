@@ -1,0 +1,19 @@
+#header { 
+    color:green;
+} 
+.highlight { 
+    color:pink;
+} 
+h1{ 
+    color:red;
+} 
+ul>li{ 
+    color:yellow;
+    list-style-type:square;
+} 
+input[type="submit"]{ 
+    cursor: pointer;
+} 
+input[type="submit"]:hover{ 
+    background-color:pink;
+}
