@@ -31,8 +31,17 @@ lable{
 input{ 
     width: 100%; 
     padding: 8px; 
-    border-radius: 5px;
+    border-radius: 5px; 
+    border: 1px solid #ccc;
 } 
 input[type="submit"]{ 
-    background-color: #006;
+    background: color #06c;
+    cursor: pointer; 
+    color: #fff;
 }
+input[type="submit"] :hover{ 
+    background-color: #004080;
+} 
+.container{ 
+    width: 1000px;
+} 
